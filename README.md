@@ -14,6 +14,9 @@ tf_slim
 
 torch
 
+# Running the Code
+Before running the code, you need to create two folders, model and result, to store the model parameters and experimental results respectively.
+
 # Training
 To train the model, use the following command:
 
