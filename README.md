@@ -3,10 +3,15 @@ This repository contains the code for the paper titled "Safe Priority-Aware Coop
 
 # Requirements and Installation
 gym
+
 highway_env
+
 numpy
+
 tensorflow
+
 tf_slim
+
 torch
 
 # Training
