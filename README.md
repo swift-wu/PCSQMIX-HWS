@@ -12,14 +12,14 @@ Our contributions can be mainly divided into the following parts:
 
 # 💥 Miniature intelligent vehicles testing
 <div align="center">
-  <img width="900" alt="image" src="https://github.com/user-attachments/assets/0d5f0aaa-8ccf-4ded-8aae-c22b5858a145" />
+  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/0d5f0aaa-8ccf-4ded-8aae-c22b5858a145" />
 </div>
 
 https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
 
 # 💥 Real-Vehicle testing
 <div align="center">
-  <img width="900" alt="image" src="https://github.com/user-attachments/assets/1671cb01-dc42-4f78-b0de-05e46572aaf0"/>
+  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/1671cb01-dc42-4f78-b0de-05e46572aaf0"/>
 </div>
 
 https://github.com/user-attachments/assets/be8f6e8f-af82-4cf6-b9bb-40964c799ef4
