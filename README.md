@@ -4,6 +4,7 @@ This repository contains the code for the paper titled "Safe Priority-Aware Coop
 
 https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
 
+https://github.com/user-attachments/assets/6de27883-41b0-4302-8bf8-05631e4e94bd
 
 # Requirements and Installation
 gym
