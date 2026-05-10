@@ -2,7 +2,7 @@
 This repository contains the code for the paper titled "Safe Priority-Aware Cooperative Decision-Making Framework for Unsignalized Intersections via Infrastructure-Assisted Cooperative Learning".
 
 
-[点击查看演示视频](29a956218bff12d42f55f144c4feee26_1.mp4)
+https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
 
 
 # Requirements and Installation
