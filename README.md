@@ -11,7 +11,7 @@ Our contributions can be mainly divided into the following parts:
 **3.Simulation and Real-World Validation:** Extensive experiments are conducted under both pure CAV and mixed-traffic environments involving human-driven vehicles, demonstrating the robustness and effectiveness of the proposed framework. Furthermore, the miniature intelligent vehicle and the full-scale vehicle experiments are developed to validate the practical feasibility and real-world deployment potential of the proposed V2I-IDADM framework.
 
 # 💥 Miniature intelligent vehicles testing
-A miniature intelligent vehicle testbed is constructed to emulate an intersection scenario. Four vehicles are deployed at different approaches, while a motion capture system provides global traffic information such as position, velocity, and heading. Each vehicle communicates with a MEC server through Wi-Fi. The MEC server runs the PCSQMIX-HWS model to optimize cooperative decisions and sends the resulting commands to the vehicles for execution.
+A miniature intelligent vehicle experiment is constructed to emulate an intersection scenario. Four vehicles are deployed at different approaches, while a motion capture system provides global traffic information such as position, velocity, and heading. Each vehicle communicates with a MEC server through Wi-Fi. The MEC server runs the PCSQMIX-HWS model to optimize cooperative decisions and sends the resulting commands to the vehicles for execution.
 
 <div align="center">
   <img width="1200" alt="image" src="https://github.com/user-attachments/assets/bfe677c8-ebc2-422f-a6a7-81dea291d896" />
@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
 
 
 # 💥 Real-Vehicle testing
-a full-scale vehicle experiment is conducted in a four-vehicle cooperative unsignalized intersection scenario. Each CAV is equipped with a GNSS/INS navigation system and a 5G communication gateway, while the RSU also uses a 5G gateway for V2I communication. The vehicles’ position, velocity, and heading information are collected through GNSS/INS and transmitted to the MEC server via 5G. The MEC server runs the PCSQMIX-HWS model to generate cooperative decisions and sends the optimized commands back to the CAVs for execution.
+A full-scale vehicle experiment is conducted in a four-vehicle cooperative unsignalized intersection scenario. Each CAV is equipped with a GNSS/INS navigation system and a 5G communication gateway, while the RSU also uses a 5G gateway for V2I communication. The vehicles’ position, velocity, and heading information are collected through GNSS/INS and transmitted to the MEC server via 5G. The MEC server runs the PCSQMIX-HWS model to generate cooperative decisions and sends the optimized commands back to the CAVs for execution.
 
 <div align="center">
   <img width="1200" alt="image" src="https://github.com/user-attachments/assets/672fa390-51c3-4551-bfdb-9665bbbc6f42"/>
