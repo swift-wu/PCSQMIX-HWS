@@ -1,5 +1,5 @@
-# PCSQMIX-HWS
-This repository contains the code for the paper titled "Safe Priority-Aware Cooperative Decision-Making Framework for Unsignalized Intersections via Infrastructure-Assisted Cooperative Learning".
+# Infrastructure-Assisted Cooperative Decision Model With Priority Awareness at Unsignalized Intersections
+This repository contains the code used for the experiments in our paper of the above name, along with experimental results  of  (code will be released soon!)
 
 # Miniature intelligent vehicles testing
 https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
