@@ -1,6 +1,0 @@
-gym
-highway_env
-numpy
-tensorflow
-tf_slim
-torch
