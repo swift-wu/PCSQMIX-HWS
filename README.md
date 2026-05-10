@@ -11,6 +11,8 @@ Our contributions can be mainly divided into the following parts:
 **3.Simulation and Real-World Validation:** Extensive experiments are conducted under both pure CAV and mixed-traffic environments involving human-driven vehicles, demonstrating the robustness and effectiveness of the proposed framework. Furthermore, the miniature intelligent vehicle and the full-scale vehicle experiments are developed to validate the practical feasibility and real-world deployment potential of the proposed V2I-IDADM framework.
 
 # 💥 Miniature intelligent vehicles testing
+A miniature intelligent vehicle testbed is constructed to emulate an intersection scenario. Four vehicles are deployed at different approaches, while a motion capture system provides global traffic information such as position, velocity, and heading. Each vehicle communicates with a MEC server through Wi-Fi. The MEC server runs the PCSQMIX-HWS model to optimize cooperative decisions and sends the resulting commands to the vehicles for execution.
+
 <div align="center">
   <img width="1200" alt="image" src="https://github.com/user-attachments/assets/bfe677c8-ebc2-422f-a6a7-81dea291d896" />
 </div>
