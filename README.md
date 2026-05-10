@@ -11,8 +11,12 @@ Our contributions can be mainly divided into the following parts:
 **3.Simulation and Real-World Validation:** Extensive experiments are conducted under both pure CAV and mixed-traffic environments involving human-driven vehicles, demonstrating the robustness and effectiveness of the proposed framework. Furthermore, the miniature intelligent vehicle and the full-scale vehicle experiments are developed to validate the practical feasibility and real-world deployment potential of the proposed V2I-IDADM framework.
 
 # 💥 Miniature intelligent vehicles testing
+<img width="737" height="386" alt="image" src="https://github.com/user-attachments/assets/0d5f0aaa-8ccf-4ded-8aae-c22b5858a145" />
+
 https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
 
 # 💥 Real-Vehicle testing
+<img width="820" height="395" alt="image" src="https://github.com/user-attachments/assets/1671cb01-dc42-4f78-b0de-05e46572aaf0" />
+
 https://github.com/user-attachments/assets/be8f6e8f-af82-4cf6-b9bb-40964c799ef4
 
