@@ -12,7 +12,7 @@ Our contributions can be mainly divided into the following parts:
 
 # 💥 Miniature intelligent vehicles testing
 <div align="center">
-  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/0d5f0aaa-8ccf-4ded-8aae-c22b5858a145" />
+  <img width="1200" alt="image" src="https://github.com/user-attachments/assets/bfe677c8-ebc2-422f-a6a7-81dea291d896" />
 </div>
 
 https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
