@@ -21,6 +21,8 @@ https://github.com/user-attachments/assets/83e60f4a-c43f-4912-aa49-0846cc3e7a86
 
 
 # 💥 Real-Vehicle testing
+a full-scale vehicle experiment is conducted in a four-vehicle cooperative unsignalized intersection scenario. Each CAV is equipped with a GNSS/INS navigation system and a 5G communication gateway, while the RSU also uses a 5G gateway for V2I communication. The vehicles’ position, velocity, and heading information are collected through GNSS/INS and transmitted to the MEC server via 5G. The MEC server runs the PCSQMIX-HWS model to generate cooperative decisions and sends the optimized commands back to the CAVs for execution.
+
 <div align="center">
   <img width="1200" alt="image" src="https://github.com/user-attachments/assets/672fa390-51c3-4551-bfdb-9665bbbc6f42"/>
 </div>
