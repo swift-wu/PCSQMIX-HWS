@@ -1,5 +1,5 @@
 # Infrastructure-Assisted Cooperative Decision Model With Priority Awareness at Unsignalized Intersections
-This repository contains the code used for the experiments in our paper of the above name, along with experimental results  of  (code will be released soon!)
+This repository contains the code used for the experiments in our paper of the above name, along with experimental results  of miniature intelligent vehicles testing and Real-Vehicle testing.(code will be released soon!)
 
 ## 🚀 Main Contributions
 Our contributions can be mainly divided into the following parts:
